@@ -15,3 +15,8 @@ Includes analysis of trip volumes, shared vs non-shared rides, trip durations, a
 ## Tools
 - Python (pandas, matplotlib)
 - Jupyter Notebook
+
+![Trip Volume by Month](plots/trip_volume_by_month.png)
+![Shared vs Non-Shared](plots/shared_vs_non_shared.png)
+![Trip Duration](plots/trip_duration_hist.png)
+![Top Pickup Zones](plots/top_pickup_zones.png)
